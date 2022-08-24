@@ -14,5 +14,8 @@ dependencies:
   - panel
   - jupyter-panel-proxy
   - pip
+  - pandas
+  - matplotlib
+  - numpy
   - pip:
     - git+https://github.com/holoviz/panel.git#egg=panel
