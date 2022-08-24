@@ -1,5 +1,18 @@
+name: Investiagte_tmdb
 channels:
 - pyviz
 
 packages:
 - jupyter-panel-proxy
+
+
+dependencies:
+  - holoviews
+  - hvplot
+  - jupyterlab
+  - notebook
+  - panel
+  - jupyter-panel-proxy
+  - pip
+  - pip:
+    - git+https://github.com/holoviz/panel.git#egg=panel
