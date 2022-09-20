@@ -1,0 +1,6 @@
+hvplot~=0.8.0
+pandas~=1.4.1
+holoviews~=1.15.0
+numpy~=1.21.2
+matplotlib~=3.5.1
+panel~=0.13.1
